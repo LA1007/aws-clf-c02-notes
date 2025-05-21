@@ -1,4 +1,5 @@
 |Module 1|
+
 Client-server model
 A client can be a web browser or desktop application that a person interacts with to make requests to computer servers. Amazon Elastic Compute Cloud (Amazon EC2)
 
